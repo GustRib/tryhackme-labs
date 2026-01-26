@@ -1,6 +1,7 @@
 # Room: Pickle Rick
 
-**Plataforma:** TryHackMe - https://tryhackme.com/room/picklerick
+**Plataforma:** TryHackMe 
+**Room:** https://tryhackme.com/room/picklerick  
 **Dificuldade:** Easy  
 **Categoria:** Linux / Web  
 
